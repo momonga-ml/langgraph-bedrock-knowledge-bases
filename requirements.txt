@@ -4,6 +4,6 @@ langgraph
 pymupdf
 html2text
 langchain-aws
-langchain-community
+langchain_community==0.0.29
 langchain-experimental==0.0.61
 httpx
